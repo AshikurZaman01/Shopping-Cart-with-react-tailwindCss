@@ -1,0 +1,144 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_name": "Wireless Bluetooth Earbuds",
+            "product_image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2lyZWxlc3MlMjBCbHVldG9vdGglMjBFYXJidWRzfGVufDB8fDB8fHww",
+            "product_price": 49.99,
+            "product_details": "High-quality wireless earbuds with noise-cancellation technology."
+        },
+        {
+            "id": 2,
+            "product_name": "Smartphone Holder for Car",
+            "product_image": "https://plus.unsplash.com/premium_photo-1661601983117-09b35c2c9688?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U21hcnRwaG9uZSUyMEhvbGRlciUyMGZvciUyMENhcnxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 12.99,
+            "product_details": "Securely holds your smartphone in place while driving."
+        },
+        {
+            "id": 3,
+            "product_name": "Stainless Steel Water Bottle",
+            "product_image": "https://images.unsplash.com/photo-1610399809302-f1dd7ec33187?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U3RhaW5sZXNzJTIwU3RlZWwlMjBXYXRlciUyMEJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 19.99,
+            "product_details": "Reusable and eco-friendly water bottle, keeps drinks cold for 24 hours."
+        },
+        {
+            "id": 4,
+            "product_name": "Fitness Tracker Watch",
+            "product_image": "https://plus.unsplash.com/premium_photo-1681433383783-661b519b154a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Rml0bmVzcyUyMFRyYWNrZXIlMjBXYXRjaHxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 79.99,
+            "product_details": "Tracks steps, heart rate, and sleep quality. Connects to your smartphone."
+        },
+        {
+            "id": 5,
+            "product_name": "Leather Wallet",
+            "product_image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TGVhdGhlciUyMFdhbGxldHxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 29.99,
+            "product_details": "Genuine leather wallet with RFID blocking technology."
+        },
+        {
+            "id": 6,
+            "product_name": "Portable External Hard Drive",
+            "product_image": "https://plus.unsplash.com/premium_photo-1663128016647-e0bd8028cd73?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UG9ydGFibGUlMjBFeHRlcm5hbCUyMEhhcmQlMjBEcml2ZXxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 89.99,
+            "product_details": "1TB storage capacity, USB 3.0 compatible."
+        },
+        {
+            "id": 7,
+            "product_name": "Wireless Charging Pad",
+            "product_image": "https://plus.unsplash.com/premium_photo-1661481079679-04e8a19e258c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2lyZWxlc3MlMjBDaGFyZ2luZyUyMFBhZHxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 24.99,
+            "product_details": "Qi-compatible wireless charger for smartphones and other devices."
+        },
+        {
+            "id": 8,
+            "product_name": "Cordless Handheld Vacuum Cleaner",
+            "product_image": "https://plus.unsplash.com/premium_photo-1664890289722-86bf6118c480?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29yZGxlc3MlMjBIYW5kaGVsZCUyMFZhY3V1bSUyMENsZWFuZXJ8ZW58MHx8MHx8fDA%3D",
+            "product_price": 69.99,
+            "product_details": "Compact and powerful vacuum for home or car use."
+        },
+        {
+            "id": 9,
+            "product_name": "LED Desk Lamp",
+            "product_image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TEVEJTIwRGVzayUyMExhbXB8ZW58MHx8MHx8fDA%3D",
+            "product_price": 39.99,
+            "product_details": "Adjustable brightness levels, modern design."
+        },
+        {
+            "id": 10,
+            "product_name": "Bluetooth Speaker",
+            "product_image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Qmx1ZXRvb3RoJTIwU3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 59.99,
+            "product_details": "Portable speaker with deep bass and 10-hour battery life."
+        },
+        {
+            "id": 11,
+            "product_name": "Digital Alarm Clock",
+            "product_image": "https://images.unsplash.com/photo-1456574808786-d2ba7a6aa654?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8RGlnaXRhbCUyMEFsYXJtJTIwQ2xvY2t8ZW58MHx8MHx8fDA%3D",
+            "product_price": 14.99,
+            "product_details": "Large LED display, snooze function, and USB charging port."
+        },
+        {
+            "id": 12,
+            "product_name": "Yoga Mat",
+            "product_image": "https://plus.unsplash.com/premium_photo-1664444389244-13c8020f3522?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8WW9nYSUyME1hdHxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 29.99,
+            "product_details": "Non-slip, extra thick yoga mat for home or studio use."
+        },
+        {
+            "id": 13,
+            "product_name": "Kitchen Knife Set",
+            "product_image": "https://images.unsplash.com/photo-1520981825232-ece5fae45120?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S2l0Y2hlbiUyMEtuaWZlJTIwU2V0fGVufDB8fDB8fHww",
+            "product_price": 49.99,
+            "product_details": "High-quality stainless steel knives with wooden block."
+        },
+        {
+            "id": 14,
+            "product_name": "Travel Backpack",
+            "product_image": "https://images.unsplash.com/photo-1570630358718-4fb324824b3d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VHJhdmVsJTIwQmFja3BhY2t8ZW58MHx8MHx8fDA%3D",
+            "product_price": 34.99,
+            "product_details": "Durable and water-resistant backpack with multiple compartments."
+        },
+        {
+            "id": 15,
+            "product_name": "Wireless Mouse",
+            "product_image": "https://images.unsplash.com/photo-1586349906319-48d20e9d17e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V2lyZWxlc3MlMjBNb3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 19.99,
+            "product_details": "Ergonomic design, compatible with Windows and Mac."
+        },
+        {
+            "id": 16,
+            "product_name": "Electric Toothbrush",
+            "product_image": "https://images.unsplash.com/photo-1559671216-bda69517c47f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RWxlY3RyaWMlMjBUb290aGJydXNofGVufDB8fDB8fHww",
+            "product_price": 39.99,
+            "product_details": "Rechargeable electric toothbrush with 3 brushing modes."
+        },
+        {
+            "id": 17,
+            "product_name": "Resistance Bands Set",
+            "product_image": "https://plus.unsplash.com/premium_photo-1661896283156-d3d443d745da?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UmVzaXN0YW5jZSUyMEJhbmRzJTIwU2V0fGVufDB8fDB8fHww",
+            "product_price": 24.99,
+            "product_details": "Set of 5 resistance bands with varying levels of resistance."
+        },
+        {
+            "id": 18,
+            "product_name": "Hiking Boots",
+            "product_image": "https://images.unsplash.com/photo-1575987116913-e96e7d490b8a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEhpa2luZyUyMEJvb3RzfGVufDB8fDB8fHww",
+            "product_price": 79.99,
+            "product_details": "Waterproof hiking boots with ankle support."
+        },
+        {
+            "id": 19,
+            "product_name": "Digital Camera",
+            "product_image": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGlnaXRhbCUyMENhbWVyYXxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 249.99,
+            "product_details": "Compact digital camera with 20MP sensor and 5x optical zoom."
+        },
+        {
+            "id": 20,
+            "product_name": "Wireless Gaming Mouse",
+            "product_image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2lyZWxlc3MlMjBHYW1pbmclMjBNb3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+            "product_price": 59.99,
+            "product_details": "High-precision gaming mouse with customizable RGB lighting."
+        }
+    ]
+}
